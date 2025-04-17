@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1744868368704",
+    "borrowerName": "Hemanth",
+    "phoneNumber": "8919645147",
+    "address": "fddghjkjnhbgvfc",
+    "principal": 9000000,
+    "interestMethod": "simple",
+    "interestRate": 8,
+    "startDate": "2025-04-17",
+    "duration": 12,
+    "notes": "",
+    "status": "unpaid",
+    "stampPaper": {
+      "fileName": "signature.jpg",
+      "fileType": "image/jpeg",
+      "lastModified": 1717213835758
+    },
+    "createdAt": "2025-04-17T05:39:28.824Z"
+  }
+]
